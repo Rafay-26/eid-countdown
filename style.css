@@ -1,0 +1,27 @@
+body{
+    overflow: hidden;
+  
+}
+#iwik{
+    background-image: url('./pngtree-ramadan-eid-islamic-traditional-background-picture-image_1660305.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: .89;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+#aas{
+    color: green;
+    font-size: xx-large;
+     padding-top: 15%;   
+}
+#time-remaining{
+    font-size: 70px;
+    font-weight: 700;
+    color: green;
+    
+}
